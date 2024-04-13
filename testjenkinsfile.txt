@@ -1,3 +1,14 @@
+doing 2nd commit for understanidng 
+
+integration between jenkins and github 
+
+currently i am using publi repo , so no creds are req
+private repo ,creds are mandatory
+
+
+
+
+
 we are doing testing of poll scm concept 
 
 with this jenkins will do checkout form git hub automatically 
