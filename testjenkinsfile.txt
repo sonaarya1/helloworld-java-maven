@@ -1,3 +1,18 @@
+pipeline jobs 
+
+job1---job2--- job3
+dependency jobs 
+manual pipeline 
+CI - continous integegration
+------
+
+cleanpackage script -- jenkins -- do build 
+
+
+
+
+
+
 doing 2nd commit for understanidng 
 
 integration between jenkins and github 
